@@ -39,7 +39,8 @@ body {
 }
 
 .player__video {
-  width: 100%;
+  width: 75%;
+  padding-left: 200px;
 }
 
 .player__button {
